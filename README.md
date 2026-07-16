@@ -14,7 +14,7 @@ Su propósito es organizar y compartir progresivamente materiales propios relaci
 
 Como primer contenido he incorporado una presentación breve sobre mi formación, experiencia, áreas de interés y proyectos académicos actuales.
 
-[Ver presentación breve](Presentacion_breve_Maria_Luz_Mendieta%20(1).docx)
+- [Ver presentación breve](Presentacion_breve_Maria_Luz_Mendieta%20(1).docx)
 
 ## Temas de interés
 
